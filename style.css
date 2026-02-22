@@ -41,7 +41,7 @@ html, body{
 .message-text {
     margin: 0;
     color: silver;
-    font-size: x-small;
+    font-size: small;
     font-weight: 600;
     font-family: "Noto Sans", sans-serif;
 }
